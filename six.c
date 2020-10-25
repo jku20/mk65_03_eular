@@ -6,7 +6,7 @@ int main() {
     int sum_of_square = n*(n+1)*(2*n+1)/6;
     int ans = square_of_sums-sum_of_square;
 
-    printf("%d",ans);
+    printf("%d\n",ans);
 
     return 0;
 }

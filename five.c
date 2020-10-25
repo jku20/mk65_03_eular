@@ -16,7 +16,7 @@ int main() {
     }
     ans--;
 
-    printf("%d", ans);
+    printf("%d\n", ans);
 
     return 0;
 }

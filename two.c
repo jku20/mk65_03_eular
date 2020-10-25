@@ -15,7 +15,7 @@ int main() {
         b += tmp;
     }
 
-    printf("%ld",ans);
+    printf("%ld\n",ans);
 
     return 0;
 }
